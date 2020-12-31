@@ -1,0 +1,8 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/joaovictordev/monitori-api.git",
+  "author": "Joao Victor Rodrigues de Souza <victorrodrigues.desenvolvimento@gmail.com>",
+  "license": "MIT"
+}
