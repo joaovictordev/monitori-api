@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "https://github.com/joaovictordev/monitori-api.git",
   "author": "Joao Victor Rodrigues de Souza <victorrodrigues.desenvolvimento@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "standard": "^16.0.3"
+  }
 }
